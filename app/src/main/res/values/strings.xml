@@ -1,0 +1,7 @@
+<resources>
+          <string name="app_name">AcessTest</string>
+          <string name="app_name_new">AcessTest</string>
+          <string name="button">Button</string>
+
+          <string name="textview">TextView</string>
+</resources>
